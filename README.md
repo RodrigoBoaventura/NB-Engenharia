@@ -1,27 +1,42 @@
-# 💖 Studio Beleza do Olhar
 
-Site institucional do **Studio Beleza do Olhar**, desenvolvido com foco em design moderno, navegação intuitiva e responsividade.  
-O projeto tem como objetivo apresentar os serviços do estúdio, facilitar o contato com clientes e fortalecer a identidade visual da marca.
+# 🏗️ NB Engenharia
 
----
-
-## 📌 Funcionalidades
-
-- Apresentação do estúdio e identidade visual  
-- Lista de serviços oferecidos  
-- Informações de contato e localização  
-- Links para redes sociais  
-- Layout responsivo para desktop e mobile  
-- Animações suaves para melhor experiência do usuário  
+Site institucional desenvolvido para a NB Engenharia com o objetivo de apresentar a empresa, seus serviços e facilitar o contato com clientes. O projeto possui design moderno, responsivo e otimizado para proporcionar uma experiência profissional e intuitiva.
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## 🌐 Demonstração
 
-- **HTML5** – Estrutura da aplicação  
-- **CSS3** – Estilização e layout  
-- **JavaScript** – Interatividade  
-- **React** – Biblioteca para construção da interface  
-- **Vite** – Ferramenta de build e desenvolvimento rápido  
-- **Tailwind CSS** – Estilização utilitária e responsiva  
-- **Framer Motion** – Animações e transições  
+Este projeto representa a estrutura completa do site institucional da empresa, incluindo:
+
+- Página inicial
+- Seção sobre a empresa
+- Apresentação de serviços
+- Área de contato
+- Layout responsivo
+
+---
+
+## 🚀 Tecnologias utilizadas
+
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+
+---
+
+## 📱 Responsividade
+
+O site é totalmente responsivo e compatível com:
+
+- 💻 Desktop
+- 📱 Smartphones
+- 📲 Tablets
+
+---
+
+## 📂 Estrutura do projeto
+
