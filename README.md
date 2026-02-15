@@ -36,7 +36,5 @@ O site é totalmente responsivo e compatível com:
 - 📱 Smartphones
 - 📲 Tablets
 
----
 
-## 📂 Estrutura do projeto
 
