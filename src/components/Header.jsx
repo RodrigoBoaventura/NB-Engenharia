@@ -52,7 +52,7 @@ function Header() {
           >
             <div className="relative">
               <img
-                src="/assets\images\logonb.png"
+                src="/assets/images/logonb.png"
                 alt="NB Engenharia Logo"
                 className={`object-contain border-black/10 transition-all duration-500 ${
                   isScrolled ? 'w-16 h-9' : 'w-16 h-9'

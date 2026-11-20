@@ -6,35 +6,21 @@ import GlassmorphicCard from './ui/GlassmorphicCard';
 function Portfolio() {
   const projects = [
     {
-      url: 'https://images.unsplash.com/photo-1586423951975-ba24e359efc0',
-      title: 'Residência Alphaville',
+      url: '/assets/images/Capturar.png',
+      title: 'Academia Municipal de Borá',
       type: 'Projeto Estrutural'
     },
     {
-      url: 'https://images.unsplash.com/photo-1568201635633-989f64b31c57',
-      title: 'Edifício Comercial',
-      type: 'Gerenciamento'
+      url: '/assets/images/Capturar2.png',
+      title: 'Execução de guia e sarjeta',
+      type: 'Projeto Estrutural'
     },
     {
-      url: 'https://images.unsplash.com/photo-1552705906-b71478b161c6',
-      title: 'Reforma Industrial',
-      type: 'Consultoria'
+      url: '/assets/images/Capturar3.png',
+      title: 'Reforma do Estádio municipal de Borá',
+      type: 'Projeto Estrutural'
     },
-    {
-      url: 'https://images.unsplash.com/photo-1587881699513-cc00ae764f52',
-      title: 'Complexo Esportivo',
-      type: 'Projeto Completo'
-    },
-    {
-      url: 'https://images.unsplash.com/photo-1579895117575-57114c2f208a',
-      title: 'Casa de Campo',
-      type: 'Regularização'
-    },
-    {
-      url: 'https://images.unsplash.com/photo-1614058427323-4959d1ddfe0b',
-      title: 'Loft Urbano',
-      type: 'Reforma'
-    }
+
   ];
 
   return (
