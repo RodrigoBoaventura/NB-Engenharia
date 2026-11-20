@@ -52,7 +52,7 @@ function Header() {
           >
             <div className="relative">
               <img
-                src="https://horizons-cdn.hostinger.com/d8dc04e3-73ce-41b1-ab31-717e0da1ee36/9af56d58647c7f0a773d1bd4557bf621.jpg"
+                src="/assets\images\logonb.png"
                 alt="NB Engenharia Logo"
                 className={`object-contain border-black/10 transition-all duration-500 ${
                   isScrolled ? 'w-16 h-9' : 'w-16 h-9'
